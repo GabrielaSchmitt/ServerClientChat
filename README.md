@@ -39,6 +39,3 @@ To run the codes you need a Java IDE such as **VSCODE, Eclipse**   just sownload
 
 
 ✨ Thanks for your attention! ✨
-
-![image](https://user-images.githubusercontent.com/86369677/173253378-721048ae-6d00-4571-abac-1ec4da8714fb.png)
-
